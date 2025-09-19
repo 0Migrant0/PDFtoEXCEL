@@ -1,0 +1,9 @@
+PyPDF2==3.0.1
+pandas==2.0.3
+openpyxl==3.1.2
+pathlib
+logging
+datetime
+re
+os
+typing
